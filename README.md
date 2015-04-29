@@ -1,2 +1,3 @@
 # mule-demo
-Workday to Anaplan Demo
+Anaplan Export - Project to export the Employee file from Anaplan
+Product Import - Project to import Employee file to Anaplan
